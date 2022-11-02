@@ -98,3 +98,8 @@ a {
     width: 200px;
   }
 }
+
+.css-bl4d6-MuiTypography-root {
+  font-family: 'Poppins', sans-serif;
+  font-weight: bold;
+}
