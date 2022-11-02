@@ -20,7 +20,7 @@ const Feed = () => {
       <Box sx={{ height: { sx: "auto", md: "92vh" }, borderRight: "1px solid #3d3d3d", px: { sx: 0, md: 2 } }}>
         <Sidebar selectedCategory={selectedCategory} setSelectedCategory={setSelectedCategory} />
         
-        <Typography className="copyright" variant="body2" sx={{ mt: 1.5, color: "#444", }}>
+        <Typography className="copyright" variant="body2" sx={{ mt: 1.5, color: "#fff", }}>
           Copyright © 2022 biskwt
         </Typography>
       </Box>
