@@ -1,4 +1,4 @@
-# Project-yt-Clone
+# Project-Usube
 Online video sharing and social media platform inspired on 'YouTube', using React.
 
 # Getting Started with Create React App
